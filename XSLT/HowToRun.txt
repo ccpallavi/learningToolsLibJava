@@ -1,0 +1,4 @@
+Right click transform.xsl -> Run As -> XSL Transformation.
+
+In the dialog box, open source.xml as the input file. 
+The output file source.out.xml will be created automatically.
